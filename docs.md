@@ -10,6 +10,7 @@ permalink: /docs/
 |-------------:|:------------------|
 | 24.3.2019  | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
 | 24.4.2022  | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
+| 24.4.2025  | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
 
 # Zákony
 
