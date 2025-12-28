@@ -28,7 +28,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 ## Katastrálne informácie
 
 - [Zoznam nehnuteľnosti Urbár Solivar pozem. spol. podľa zákona č.110/2018 zbierky zákonov § 18 ods. 2 zákona]({{ '/assets/ZoznamNehnuteľnosti.pdf' |relative_url }})
-- [Zoznam nehnuteľnosti Urbár Solivar pozem. spol. podľa zákona č.110/2018 zbierky zákonov § 18 ods. 2 zákona]({{ '/assets/ZoznamNehnuteľnosti.pdf' |relative_url }})
+- [Zoznam nehnuteľnosti Urbár Solivar pozem. spol. podľa zákona č.110/2018 zbierky zákonov § 18 ods. 2 zákona](https://drive.google.com/file/d/1-dZg2LDgwIX9Z5H5wGazIf86jQZ_MYBI/view?usp=drive_link)
 
 
 | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Číslo k.ú. | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Názov k.ú. | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Číslo LV | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Poznámka (typ pozemkov) | {: style=";background-color: #808080; color: white;font-weight: bold;" } Výmera [ha] |
