@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zhromaždenie členov spoločenstva"
+title: "Pozvánka na zhromaždenie 28.2.2026"
 date: 2026-02-05
 author: Výbor spoločenstva
 categories: valne zhromazdenie
