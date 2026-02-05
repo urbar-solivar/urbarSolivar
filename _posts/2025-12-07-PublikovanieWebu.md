@@ -1,7 +1,7 @@
 ---
-title: 'Web urbáru bol publikovaný na verejnú domému: www.urbar-solivar.sk'
+title: 'Publikácia webovej lokality urbáru'
 categories: web
 tags:  web
 ---
 
-Dňa **2.12.2025** bola web urbáru publikovaný na verejnú doménu, ktorú urbár používa.
+* Dňa **2.12.2025** bol web urbáru publikovaný na verejnú doménu www.urbar-solivar.sk, ktorú urbár používa pre informovanie svojich členov.
