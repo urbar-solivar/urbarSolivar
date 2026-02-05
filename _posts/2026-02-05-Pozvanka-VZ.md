@@ -15,13 +15,8 @@ oproti reštaurácii Astorka)
 
 
 
-```
-Urbár Solivar, pozemkové spoločenstvo, Na Vyhliadke 6, 080 05 Prešov
-http://www.urbar-solivar.sk e-mail: urbar.solivar@gmail.com
-```
-```
-P O Z V Á N K A
-```
+# P O Z V Á N K A
+
 na Zhromaždenie členov pozemkového spoločenstva, ktoré sa uskutoční dňa 28.2.2026 o 14.
 hod. v **Posádkovom klube ozbrojených síl SR, Mukačevská 20, 080 01 Prešov (Sídlisko III. –
 oproti reštaurácii Astorka)**
@@ -59,56 +54,4 @@ _Ing. Beáta Bajužíková_
 predseda výboru
 
 
-# S P L N O M O C N E N I E
-
-```
-na zastupovanie na Zhromaždení Urbár Solivar, poz. spol., so sídlom Na Vyhliadke 6,080 05 Prešov
-```
-```
-Splnomocniteľ :
-```
-```
-Meno: ........................................ Dátum nar. ......................
-```
-```
-Trvalé bydlisko: ........................................................................
-```
-```
-týmto splnomocňujem :
-```
-**Splnomocnenca:**
-
-```
-Meno: ........................................ Dátum nar. ......................
-```
-```
-Trvalé bydlisko: ........................................................................
-```
-```
-Splnomocnenec je oprávnený hlasovať v mojom mene :
-1) Schválenie programu áno
-2) Za dodatok Stanov o elektronickom hlasovaní áno
-3) Za schválenie účtovných závierok za r. 2024 a 2025 áno
-4) Za rozdelenie zisku a vyplatenie dividend áno
-```
-```
-na Zhromaždení dňa 28.2.2026 v Posádkovom klube ozbrojených síl SR, Mukačevská
-20, 080 01 Prešov ( sídlisko III, oproti reštaurácii Astorka) o 14.00.hod.
-```
-```
-Prešov, dňa ...............................
-```
-```
-Splnomocnenie udeľujem: Splnomocnenie prijímam:
-```
-## ..................................................... ..............................................
-
-```
-splnomocniteľ splnomocnenec
-```
-
-
-
-
-
-- [Pozvánka s programom a splnomocnením vo verzii pre tlač]()
+- [Pozvánka s programom a splnomocnením vo verzii pre tlač](({{ site.baseurl }}/assests/docs/2026-02-28-Pozvanka-VZ.pdf)
