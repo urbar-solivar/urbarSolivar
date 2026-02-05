@@ -1,3 +1,4 @@
+
 # _config.yml
 # baseurl: "/urbarSolivar"
 url: "https://www.urbar-solivar.sk"
@@ -27,6 +28,7 @@ navbar-links:
     - Dokumenty: "docs"
     - Registrácia spoločenstva: "about"
     - Finančné ukazovatele: "https://finstat.sk/42382742"
+    - História: "historia"
   Kontakty: "contacts"
 
 ################
