@@ -34,10 +34,15 @@
           {% endif %}
           
           {% if include.type == "post" %} 
-            {% if page.author %}
-              Autor: <strong>{{ page.author | strip_html }}</strong><br>
-            {% endif%}
             <span class="post-meta">Publikované: {{ page.date | date: date_format }}</span>
+             {%- if page.author -%}
+              • {% for author in page.author %}
+                <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                  <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+                  {%- if forloop.last == false %}, {% endif -%}
+              {% endfor %}
+            {%- endif -%}
+          
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
