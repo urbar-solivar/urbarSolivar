@@ -26,7 +26,7 @@ na Zhromaždenie členov pozemkového spoločenstva, ktoré sa uskutoční dňa 
 hod. v **Posádkovom klube ozbrojených síl SR, Mukačevská 20, 080 01 Prešov (Sídlisko III. –
 oproti reštaurácii Astorka)**
 
-Program :
+**Program:**
 
 1. Otvorenie
 2. Schválenie programu Zhromaždenia
