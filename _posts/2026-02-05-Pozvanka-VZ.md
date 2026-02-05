@@ -53,5 +53,6 @@ _Ing. Beáta Bajužíková_
 ...............................................
 predseda výboru
 
-
-- [Pozvánka s programom a splnomocnením vo verzii pre tlač](({{ site.baseurl }}/assests/docs/2026-02-28-Pozvanka-VZ.pdf)
+<hr/>
+- [Pozvánka s programom a splnomocnením vo verzii pre tlač]({{ site.url }}/assests/docs/2026-02-28-Pozvanka-VZ.pdf)
+- [Zoznam členov k 31.1.2026]({{ site.url }}/assests/docs/2026-01-31-ZoznamPodielnikov.pdf)
