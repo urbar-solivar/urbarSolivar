@@ -8,7 +8,7 @@ tags: zhromaždenie
 published: true
 ---
 
-* Výbor pozemkového spoločenstva týmto pozýva všetkých spoluvslastníkov spoločnej nehnuteľnosti 
+* Výbor pozemkového spoločenstva týmto pozýva všetkých spoluvlastníkov spoločnej nehnuteľnosti 
 na Zhromaždenie členov pozemkového spoločenstva, ktoré sa uskutoční dňa **28.2.2026 o 14.00 hod**
 v **Posádkovom klube ozbrojených síl SR, Mukačevská 20, 080 01 Prešov** (Sídlisko III. –
 oproti reštaurácii Astorka)
