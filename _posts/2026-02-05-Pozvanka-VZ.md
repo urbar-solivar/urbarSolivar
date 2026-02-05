@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pozvánka na Valné zhromaždenie spoločenstva"
+title: "Pozvánka na zhromaždenie spoločenstva"
 date: 2026-02-05
 author: Výbor urbariátu
 categories: valne zhromazdenie
