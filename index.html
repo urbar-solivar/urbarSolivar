@@ -106,7 +106,7 @@ cover-img:
     <div class="blog-tags">
       Štítky:
       {% for tag in post.tags %}
-      <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+      <a href="{{ '/tag/' | absolute_url }}{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
     </div>
     {% endif %}
