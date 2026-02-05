@@ -2,7 +2,7 @@
 layout: post
 title: "Zhromaždenie členov spoločenstva"
 date: 2026-02-05
-author: Výbor urbariátu
+author: Výbor spoločenstva
 categories: valne zhromazdenie
 tags: zhromaždenie
 published: true
