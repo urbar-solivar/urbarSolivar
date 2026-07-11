@@ -21,8 +21,8 @@ collections:
       - { label: "Názov", name: "title", widget: "string" }
       - { label: "Publikované", name: "published", widget: "boolean", default: true }
       - { label: "Dátum", name: "date", widget: "datetime" }
-      - { label: "Autor", name: "author", widget: "string", default: "{{user.name}}" }
-      - { label: "Kategórie", name: "categories", widget: "string" }
+      - { label: "Autor", name: "author", widget: "string" }
+      - { label: "Kategórie", name: "categories", widget: "hidden", default: "oznamy" }
       - { label: "Tagy", name: "tags", widget: "string" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Obsah", name: "body", widget: "markdown" }
