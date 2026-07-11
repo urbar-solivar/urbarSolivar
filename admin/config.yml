@@ -23,3 +23,4 @@ collections:
       - { label: "Tagy", name: "tags", widget: "string" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Obsah", name: "body", widget: "markdown" }
+      - { label: "Publikované", name: "published", widget: "boolean", default: true }
