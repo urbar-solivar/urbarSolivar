@@ -15,6 +15,8 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Formát názvu súboru
     extension: "md"
     summary: "📅 {{date | date('D.M.YYYY')}} | ✍️ {{author}} | {{title}} |"
+    sortable_fields: ['date', 'title'] # Povolené polia na triedenie v UI
+    sort: { field: 'date', direction: 'descending' } # Predvolené triedenie: od najnovšieho
     fields:
       - { label: "Názov", name: "title", widget: "string" }
       - { label: "Publikované", name: "published", widget: "boolean", default: true }
