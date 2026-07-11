@@ -1,6 +1,6 @@
 ---
 title: Publikácia webovej lokality urbáru
-published: true
+published: false
 date: 2025-12-02T10:51:00.000+01:00
 author: Ing. Matúš Ivanecký
 categories: web
