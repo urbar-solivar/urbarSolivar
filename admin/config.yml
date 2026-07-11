@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: urbar-solivar/urbarSolivar 
-  base_url: https://decap-cms-vercel-flame.vercel.app
+  base_url: https://urbar-solivar-auth-aq6ze6ja7-imcontec.vercel.app
   auth_endpoint: /api/auth
   
 media_folder: 'assets/uploads'
