@@ -1,6 +1,6 @@
 ---
 title: Test admin rozhrania
-published: true
+published: false
 date: 2026-07-11T11:53:00.000+02:00
 author: "{{user.name}}"
 categories: test
