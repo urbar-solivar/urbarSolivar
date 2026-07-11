@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Pozvánka na zhromaždenie 28.2.2026"
+title: Pozvánka na zhromaždenie 28.2.2026
+published: false
 date: 2026-02-05
 author: Výbor spoločenstva
 categories: valne zhromazdenie
 tags: zhromaždenie
-published: true
+layout: post
 ---
 
 * Výbor pozemkového spoločenstva týmto pozýva všetkých spoluvlastníkov spoločnej nehnuteľnosti 
