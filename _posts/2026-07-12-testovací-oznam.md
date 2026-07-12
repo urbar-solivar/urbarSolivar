@@ -10,3 +10,17 @@ layout: post
 Testovací oznam
 
 <https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/view?usp=sharing>
+
+
+
+Testovacíoznam
+
+\-        texttextového reťazca
+
+10, 20, 30, Thfgčmé...
+
+ 
+
+\-        obrázok
+
+![](/assets/uploads/les.jpg)
