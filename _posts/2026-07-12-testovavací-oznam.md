@@ -53,4 +53,4 @@ Spolu:                                     
 
 Možnosť zverejnenia dokumentu z Google disku 
 
-https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/view?usp=drive_link
+<https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/view?usp=drive_link>
