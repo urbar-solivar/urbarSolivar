@@ -7,20 +7,20 @@ categories: oznamy
 tags: Oznamy
 layout: post
 ---
-Testovací oznam
+***Testovací oznam***
 
 <https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/view?usp=sharing>
 
 
 
-Testovacíoznam
+Testovací oznam
 
-\-        texttextového reťazca
+\-        textový reťazec
 
-10, 20, 30, Thfgčmé...
+10, 20, 30, Thfgčmé...kooor juxťžší ??? hd
 
  
 
 \-        obrázok
 
-![Kokošovce](/assets/uploads/les.jpg)
+* ![Kokošovce](/assets/uploads/les.jpg)
