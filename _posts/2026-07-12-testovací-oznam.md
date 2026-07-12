@@ -13,10 +13,10 @@ layout: post
 
 10, 20, 30, Thfgčmé...kooor juxťžší ??? hd
 
-
-
 \-        obrázok
 
 * ![Kokošovce](/assets/uploads/les.jpg)
 
-![Zrážky 2026](/assets/uploads/zrážky.jpg "Zrážky 2026")
+
+
+![Zrážky 2026](/assets/uploads/zrážky.jpg)
