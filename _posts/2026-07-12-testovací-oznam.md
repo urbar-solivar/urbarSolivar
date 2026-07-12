@@ -23,4 +23,4 @@ Testovacíoznam
 
 \-        obrázok
 
-![](/assets/uploads/les.jpg)
+![Kokošovce](/assets/uploads/les.jpg)
