@@ -69,6 +69,4 @@ Možnosť zverejnenia dokumentu z Google disku
   title="PDF Document">
 </iframe>
 
-
-
-{% include pdf.html id="1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO" type="embed"%}
+{% include pdf.html source="1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO" type="embed" %}
