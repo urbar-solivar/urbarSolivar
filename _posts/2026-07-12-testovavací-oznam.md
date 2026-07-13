@@ -71,4 +71,4 @@ Možnosť zverejnenia dokumentu z Google disku
 
 
 
-{% pdf "1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO" %}
+{% include pdf.html id="1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO" type="embed"%}
