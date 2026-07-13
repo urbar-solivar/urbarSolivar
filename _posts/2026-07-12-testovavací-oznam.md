@@ -68,3 +68,7 @@ Možnosť zverejnenia dokumentu z Google disku
   height="600px" 
   title="PDF Document">
 </iframe>
+
+
+
+{% pdf "1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO" %}
