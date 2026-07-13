@@ -176,7 +176,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-spaceship
-  - jekyll-admin
   - jekyll-sitemap
 
 remote_theme: daattali/beautiful-jekyll@6.0.1 

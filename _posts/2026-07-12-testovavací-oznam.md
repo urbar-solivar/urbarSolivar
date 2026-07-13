@@ -54,3 +54,17 @@ Spolu:                                     
 Možnosť zverejnenia dokumentu z Google disku 
 
 <https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/view?usp=drive_link>
+
+<embed src="/assets/doc/2026-02-28-Pozvanka-VZ.pdf" width="500" height="375" 
+ type="application/pdf">
+ <br/><br/>
+
+<iframe src="https://drive.google.com/file/d/1bA0-RO7Z5reyPJHB9F4EhYbypLuZ99AO/preview" 
+      width="500" height="375"  allow="autoplay"></iframe>
+
+<iframe 
+  src="/assets/doc/2026-02-28-Pozvanka-VZ.pdf" 
+  width="100%" 
+  height="600px" 
+  title="PDF Document">
+</iframe>
