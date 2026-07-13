@@ -1,11 +1,18 @@
+{% capture source %}{{ include.source }}{% endcapture %}
+
+{% comment %} Ak obsahuje http, berieme to ako priamu URL, inak ako ID pre Google Drive {% endcomment %}
+{% if source contains "http" %}
+  {% assign pdf_url = source %}
+{% else %}
+  {% assign pdf_url = "https://drive.google.com/file/d/" | append: source | append: "/preview" %}
+{% endif %}
+
 {% if include.type == "link" %}
-  <a href="https://drive.google.com/file/d/{{ include.id }}/view" target="_blank" class="pdf-link">
-    Otvoriť PDF dokument (na Google Drive)
-  </a>
+  <a href="{{ source }}" target="_blank" class="pdf-link">Otvoriť PDF dokument</a>
 {% else %}
   <div class="pdf-embed-wrapper" style="margin: 20px 0;">
     <iframe 
-      src="https://drive.google.com/file/d/{{ include.id }}/preview" 
+      src="{{ pdf_url }}" 
       width="100%" 
       height="600px" 
       frameborder="0" 

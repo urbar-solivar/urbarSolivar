@@ -2,17 +2,28 @@ CMS.registerEditorComponent({
   id: "pdf",
   label: "PDF",
   fields: [
-    {name: "id", label: "Google Drive ID", widget: "string"}
+    { name: "source", label: "URL adresa alebo Google Drive ID", widget: "string" },
+    { 
+      name: "type", 
+      label: "Typ zobrazenia", 
+      widget: "select", 
+      options: [
+        { label: "Vložený dokument (Embed)", value: "embed" },
+        { label: "Odkaz (Link)", value: "link" }
+      ],
+      default: "embed"
+    }
   ],
-  pattern: /^{% include pdf.html id="(\S+)" type="(\S+)" %}$/,
+  pattern: /^{% include pdf.html source="([^"]*)" type="([^"]*)" %}$/,
   fromBlock: function(match) {
-    return { id: match[1] };
+    return { source: match[1], type: match[2] };
   },
   toBlock: function(obj) {
-    // Toto vygeneruje: {% include pdf.html id="1bA0..." type="embed" %}
-    return `{% include pdf.html id="${obj.id}" type="${obj.type}" %}`;
+    return `{% include pdf.html source="${obj.source}" type="${obj.type}" %}`;
   },
-  Preview: function(obj) {
-    return `<iframe src="https://drive.google.com/file/d/${obj.id}/preview" width="100%" height="300px"></iframe>`;
+  toPreview: function(obj) {
+    return `<div style="padding: 10px; background: #eee; border: 1px solid #ccc;">
+              <strong>PDF:</strong> ${obj.source} (${obj.type})
+            </div>`;
   },
 });
