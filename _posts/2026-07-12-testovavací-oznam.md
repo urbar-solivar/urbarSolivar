@@ -1,6 +1,6 @@
 ---
 title: Testovavací oznam
-published: false
+published: true
 date: 2026-10-30T23:35:00.000+01:00
 author: Ján Komár
 categories: oznamy
