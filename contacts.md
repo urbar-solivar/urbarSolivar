@@ -13,8 +13,8 @@ permalink: /contacts/
 |**sídlo**| Urbár Solivar pozem. spol.,<br/> Na vyhliadke 6,<br/> 080 05 Prešov |
 |**mobil**| ??? | 
 |**bankový kontakt**| **SK63 ??? ** (banka) <br/> |
+|**výbor**| +421  |
 |**dozorná rada**| +421 |
-|**kontakt výbor**| +421  |
 |**Finstat**| [Finančné ukazovatele](https://finstat.sk/42382742)|
 |**Výpis z registra**| [k 28.7.2025](https://drive.google.com/file/d/1FvbNIJsUwFz6dMj-B0hHqOxJJA7nRvK5/view?usp=drive_link)|
 
