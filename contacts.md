@@ -12,7 +12,7 @@ permalink: /contacts/
 |**email**| urbar.solivar@gmail.com|  
 |**sídlo**| Urbár Solivar pozem. spol.,<br/> Na vyhliadke 6,<br/> 080 05 Prešov |
 |**mobil**| ??? | 
-|**bankový kontakt**| **SK  (banka)** <br/> |
+|**bankový kontakt**| SK  (banka) |
 |**výbor**| +421  |
 |**dozorná rada**| +421 |
 |**Finstat**| [Finančné ukazovatele](https://finstat.sk/42382742)|
